@@ -1,0 +1,3 @@
+C:/Users/Artyom/CLionProjects/quq/cmake-build-debug/CMakeFiles/quq.dir
+C:/Users/Artyom/CLionProjects/quq/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Artyom/CLionProjects/quq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
